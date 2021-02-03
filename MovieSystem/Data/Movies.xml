@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Movies>
+	<Movie MovieName="功夫" Director="周星驰" Price="30" Actors="周星驰、黄圣依、陈国坤、元华、元秋、梁小龙" Introduction="影片讲述了一个街头混混变成一代武术家，一个本性善良的黑帮流氓改邪归正的故事"  MovieType="喜剧" ImaPath="..\..\Image\功夫.jpg" >
+		<MovieTime time="9:00"/>
+		<MovieTime time="11:00"/>
+	</Movie>
+	<Movie MovieName="东邪西毒" Director="王家卫" Price="50"  Actors="张国荣、林青霞、梁家辉、张曼玉、梁朝伟、刘嘉玲、张学友、杨采妮" Introduction="影片改编自金庸小说《射雕英雄传》，讲述了欧阳锋的人生经历以及他和黄药师、大嫂、洪七等人的故事"  MovieType="情感伦理" ImaPath="..\..\Image\东邪西毒.jpg">
+		<MovieTime time="15:00"/>
+		<MovieTime time="17:00"/>
+	</Movie>
+</Movies>
